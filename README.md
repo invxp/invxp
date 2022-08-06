@@ -1,6 +1,6 @@
 ### 谢猪猪
 
-- 🔭 阿里云后端攻城狮
+- 🔭 联想架构师
 - 🌱 喜欢用Go语言开发各种有趣的应用
 - 📫 联系我: invidentssc@hotmail.com
 - 👬 微信：invidentxp
