@@ -5,6 +5,7 @@
 - 📫 联系我: invidentssc@hotmail.com
 - 👬 微信：invidentxp
 - 😄 喜欢MUG、MOBA
+- 📖 我的博客：https://ragnarokcn.com/blog
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=invxp&row=1&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
