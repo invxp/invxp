@@ -1,6 +1,6 @@
 ### 谢猪猪
 
-- 🔭 联想架构师
+- 🔭 专职摸鱼
 - 🌱 喜欢用Go语言开发各种有趣的应用
 - 📫 联系我: invidentssc@hotmail.com
 - 👬 微信：invidentxp
